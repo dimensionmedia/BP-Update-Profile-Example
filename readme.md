@@ -1,0 +1,1 @@
+Just a very example of how to add/update user profile information using Google Geo API Built for demonstration purposes, built for [WPSessions](http://wpsessions.com/sessions/working-with-buddypress/).
